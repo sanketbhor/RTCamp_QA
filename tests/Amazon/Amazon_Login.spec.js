@@ -9,7 +9,5 @@ test('validate login', async ({page}) => {
   await page.getByLabel('Continue').click();
   await page.getByLabel('Password').fill('Sammy@79');
   await page.getByLabel('Sign in', { exact: true }).click();
-  await page.pause();
-
  
 });
