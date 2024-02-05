@@ -10,7 +10,7 @@ git clone https://github.com/sanketbhor/RTCamp_QA.git
 
 # Run Code
 
-1. cd RTCAMP_QA
+1. ```cd RTCAMP_QA```
 
 2. npm install
 
