@@ -3,6 +3,7 @@ For Script-Review by RTCamp
 
 This repo is created for RT Camp QA-Engineer Assignment purpose .
 It consist of scripts and screenshots for test cases on Playwright framework.
+I have added test case videos too at the end which were recorded during the local testings.
 
 ## Installation
 
@@ -51,10 +52,23 @@ npx playwright test Wishlist.spec.js --project=chromium --headed
 ## Test Case Recordings
 
 1. Test Case 1: Amazon Login
- 
 
+ 
 https://github.com/sanketbhor/RTCamp_QA/assets/66402092/7f9aef39-217c-42ed-a3e4-2a75023834b3
 
 
-2.Test Case 2: Product Checkout
+2. Test Case 2: Product Checkout
+
+
+https://github.com/sanketbhor/RTCamp_QA/assets/66402092/f4ae8839-4f4f-4ca9-a2c4-d152b0f6e69f
+
+3. Test Case 3: Search Functionality
+
+
+https://github.com/sanketbhor/RTCamp_QA/assets/66402092/83fbe481-294b-4cc8-90e3-8d17c4e2e920
+
+4. Test Case 4: Wishlist Functionality
+
+
+https://github.com/sanketbhor/RTCamp_QA/assets/66402092/23b2de40-7528-4d08-9bba-0c22ded8e7c0
 
