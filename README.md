@@ -48,4 +48,13 @@ npx playwright test Wishlist.spec.js --project=chromium --headed
 ```
 
 
+## Test Case Recordings
+
+1. Test Case 1: Amazon Login
+ 
+
+https://github.com/sanketbhor/RTCamp_QA/assets/66402092/7f9aef39-217c-42ed-a3e4-2a75023834b3
+
+
+2.Test Case 2: Product Checkout
 
