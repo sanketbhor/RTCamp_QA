@@ -72,3 +72,12 @@ https://github.com/sanketbhor/RTCamp_QA/assets/66402092/83fbe481-294b-4cc8-90e3-
 
 https://github.com/sanketbhor/RTCamp_QA/assets/66402092/23b2de40-7528-4d08-9bba-0c22ded8e7c0
 
+
+## Manual Testing Test Cases for Amazon 
+```
+https://docs.google.com/document/d/1ec7HmyoDnvWpQlkcztkJ1kTnmgDNjCBb3RMOXYfo8UE/edit?usp=sharing
+```
+This Google doc link contains RTCamp Amazon Testing Document Flow 
+
+
+## Issues are Created regarding UI Testing performed on [rtcamp.](https://qa.rtcamp.net/)https://qa.rtcamp.net/ .
